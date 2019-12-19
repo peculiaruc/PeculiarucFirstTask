@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PeculiarucFirstTask</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="hint_enter_your_username">Enter your username</string>
+    <string name="text_register">Register</string>
+    <string name="text_new_click_here_to_register">New? Click here to Register</string>
+    <string name="text_login">Login</string>
+    <string name="hint_enter_your_password">Enter your Password</string>
+    <string name="hint_enter_your_email_or_username">Enter your Email or Username</string>
+    <string name="textsign_up">Sign Up</string>
+    <string name="enter_your_email">Enter your email</string>
+</resources>
